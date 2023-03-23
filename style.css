@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 100vh;
+}
+
+.hello {
+  text-transform: capitalize;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #6f36ff;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -70,6 +70,7 @@ In order to run this project you need:
 1. Any browser of your choice.
 2. Any code aditor preferably Vs code.
 3. git.
+### Setup
 
 Clone this repository to your desired folder:
 
@@ -128,7 +129,6 @@ Not avaibale for now.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **Header**
 - [ ] **Other sections**
